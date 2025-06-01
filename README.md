@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there👀
+im Kasra Valipour
+27/4/2009
+iam on my second year of highschool, im at Mathematics and Physics field of study
 
-<!--
-**Kasravalipour/Kasravalipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+skills:
+-i have mastery on python development and python concepts
+- learning django for 4 or 5 mounths, have a familier with views, models, admin panel, apps, includes and ...
+- worked with tkinter library, i made a accounting program with this library
+- i worked such a little with databaces like SQLite and SQL
+- fingerdetect project to the iranian company(mediapipe library) but with chatGPT help
+- activelearn person
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+futer:
+- really intrest to learn about AI and mchine learning but i dont have enoght knowlege
+on some maths conceptes (i hope will start learn AI and Mchine learning in college after know enoght knowlege)
