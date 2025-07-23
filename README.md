@@ -9,8 +9,9 @@
 
 ### 🛠 Skills
 - **Python**: Mastery of core concepts & advanced libraries.  
-- **Django**: 4-5 months experience (Views, Models, Admin Panel, Apps).  
-- **Databases**: Worked with SQLite & SQL.  
+- **Django**: 4-5 months experience (Views, Models, Admin Panel, Apps, ...).  
+- **Databases**: Worked with SQLite & SQL.
+- **HTML/CSS**: worked
 - **Projects**:  
   - Accounting program using starter libraries.  
   - Finger-detection project with MediaPipe (collaboration with an Iranian company).  
@@ -18,7 +19,8 @@
 ---
 
 ### 🔥 Interests
-- 🤖 **AI & Machine Learning**: Eager to learn (currently building math foundations for college).  
+- 🤖 **AI & Machine Learning**: Eager to learn (currently building math foundations for college).
+- **WebSites and WebApps**: Build a complect Web project.
 - 📚 Open to collaborations in Python/Django projects!  
 
 ---
